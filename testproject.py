@@ -9,3 +9,5 @@ if num == 1:
         else:
             print(" ",end=" ")
     print()
+else:
+    print(" worng")
